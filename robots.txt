@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thozi.zo.space/sitemap.xml
